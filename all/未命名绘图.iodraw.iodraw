@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vgLScuhdzcY3IV9KYCU6-1" value="Hot DB" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="290" width="60" height="60" as="geometry" />
+          <mxGeometry x="590" y="190" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-2" value="Cold DB" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="290" width="60" height="60" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="vgLScuhdzcY3IV9KYCU6-7" value="Hot DB" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="310" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-10" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+        <mxCell id="vgLScuhdzcY3IV9KYCU6-10" value="Cold DB" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="390" y="310" width="50" height="49" as="geometry" />
         </mxCell>
       </root>
