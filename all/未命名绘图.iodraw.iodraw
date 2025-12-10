@@ -7,7 +7,7 @@
         <mxCell id="vgLScuhdzcY3IV9KYCU6-1" value="Hot DB" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="290" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-2" value="Cool DB" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgLScuhdzcY3IV9KYCU6-2" value="Cold DB" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="290" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
