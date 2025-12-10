@@ -27,6 +27,9 @@
         <mxCell id="vgLScuhdzcY3IV9KYCU6-10" value="Cold DB" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="430" y="310" width="50" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="vgLScuhdzcY3IV9KYCU6-30" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
+          <mxGeometry x="180" y="550" width="48.6" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
