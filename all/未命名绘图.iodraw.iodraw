@@ -4,6 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vgLScuhdzcY3IV9KYCU6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vgLScuhdzcY3IV9KYCU6-5" target="vgLScuhdzcY3IV9KYCU6-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="265" />
+              <mxPoint x="325" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Fujitsu_Tablet_128x128.png" vertex="1" parent="1">
           <mxGeometry x="320" y="155" width="70" height="65" as="geometry" />
         </mxCell>
