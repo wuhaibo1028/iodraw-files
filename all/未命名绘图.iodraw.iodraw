@@ -40,14 +40,14 @@
         <mxCell id="vgLScuhdzcY3IV9KYCU6-31" value="Timer Task" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=boundInt;symbol=timer;" vertex="1" parent="1">
           <mxGeometry x="110" y="334.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-35" value="&lt;b&gt;Spilt Database&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Query without historic&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vgLScuhdzcY3IV9KYCU6-35" value="&lt;b&gt;&lt;font color=&quot;#ff3a1c&quot;&gt;Spilt Database&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Query without historic&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="155" width="210" height="25" as="geometry" />
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vgLScuhdzcY3IV9KYCU6-41" target="vgLScuhdzcY3IV9KYCU6-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="570" />
-              <mxPoint x="215" y="570" />
+              <mxPoint x="280" y="570" />
+              <mxPoint x="245" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-41" value="" style="image;html=1;image=img/lib/clip_art/computers/Fujitsu_Tablet_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="260" y="465" width="70" height="65" as="geometry" />
+          <mxGeometry x="290" y="465" width="70" height="65" as="geometry" />
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgLScuhdzcY3IV9KYCU6-44" target="vgLScuhdzcY3IV9KYCU6-45">
           <mxGeometry relative="1" as="geometry" />
@@ -68,10 +68,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-44" value="Hot DB" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
-          <mxGeometry x="190" y="615" width="50" height="49" as="geometry" />
+          <mxGeometry x="220" y="615" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-45" value="Cold DB" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
-          <mxGeometry x="320" y="615" width="50" height="49" as="geometry" />
+          <mxGeometry x="350" y="615" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgLScuhdzcY3IV9KYCU6-48" target="vgLScuhdzcY3IV9KYCU6-44">
           <mxGeometry relative="1" as="geometry" />
@@ -82,17 +82,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-48" value="Timer Task" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=boundInt;symbol=timer;" vertex="1" parent="1">
-          <mxGeometry x="80" y="624.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="110" y="624.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-49" value="&lt;b&gt;Spilt Database：&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Query with historic&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="440" width="230" height="25" as="geometry" />
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="570" as="sourcePoint" />
-            <mxPoint x="350" y="615" as="targetPoint" />
+            <mxPoint x="280" y="570" as="sourcePoint" />
+            <mxPoint x="380" y="615" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="570" />
+              <mxPoint x="380" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
