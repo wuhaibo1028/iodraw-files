@@ -41,7 +41,7 @@
           <mxGeometry x="90" y="394.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-35" value="Spilt Database：&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Query without historic&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="155" width="90" height="30" as="geometry" />
+          <mxGeometry x="90" y="155" width="120" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
