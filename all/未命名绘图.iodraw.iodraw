@@ -96,8 +96,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-52" value="Ncell Expired Data Clean solution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="50" width="60" height="30" as="geometry" />
+        <mxCell id="vgLScuhdzcY3IV9KYCU6-52" value="&lt;b&gt;&lt;font color=&quot;#0d3dff&quot;&gt;Ncell Expired Data Clean solution&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
