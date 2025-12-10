@@ -53,11 +53,11 @@
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-40" value="Query with historic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vgLScuhdzcY3IV9KYCU6-39">
           <mxGeometry x="-0.7667" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-20" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-41" value="" style="image;html=1;image=img/lib/clip_art/computers/Fujitsu_Tablet_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="220" y="565" width="70" height="65" as="geometry" />
+          <mxGeometry x="270" y="570" width="70" height="65" as="geometry" />
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgLScuhdzcY3IV9KYCU6-44" target="vgLScuhdzcY3IV9KYCU6-45">
           <mxGeometry relative="1" as="geometry" />
@@ -94,11 +94,6 @@
             <Array as="points">
               <mxPoint x="360" y="675" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-51" value="Query with historic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vgLScuhdzcY3IV9KYCU6-50">
-          <mxGeometry x="-0.7667" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
