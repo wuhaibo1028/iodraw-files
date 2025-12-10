@@ -16,7 +16,7 @@
         <mxCell id="vgLScuhdzcY3IV9KYCU6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgLScuhdzcY3IV9KYCU6-7" target="vgLScuhdzcY3IV9KYCU6-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+        <mxCell id="vgLScuhdzcY3IV9KYCU6-7" value="Hot DB" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="310" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vgLScuhdzcY3IV9KYCU6-10" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
