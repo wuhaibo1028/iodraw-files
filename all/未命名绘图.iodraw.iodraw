@@ -27,59 +27,6 @@
         <mxCell id="vgLScuhdzcY3IV9KYCU6-10" value="Cold DB" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="430" y="310" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-16" value="" style="rounded=1;fillColor=#ffffff;strokeColor=#DFE1E5;shadow=1;arcSize=1;fontSize=12;fontColor=#596780;align=center;html=1;verticalAlign=top;spacingTop=5;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="160" y="419" width="360" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-18" value="1-click invite phase 1 (SW-3033)" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="vgLScuhdzcY3IV9KYCU6-16">
-          <mxGeometry width="330" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="40" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-19" value="ADV - Editable detail review (SW-3033)" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="vgLScuhdzcY3IV9KYCU6-16">
-          <mxGeometry width="330" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="65" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-20" value="Bugfix and warranty (SW-3033)" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="vgLScuhdzcY3IV9KYCU6-16">
-          <mxGeometry width="330" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="90" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-21" value="Build test release (SW-3033)" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="vgLScuhdzcY3IV9KYCU6-16">
-          <mxGeometry width="330" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="115" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-22" value="Burnup chart (SW-3033)" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="vgLScuhdzcY3IV9KYCU6-16">
-          <mxGeometry width="330" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="140" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-23" value="Design debt (SW-3033)" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="vgLScuhdzcY3IV9KYCU6-16">
-          <mxGeometry width="330" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="165" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-24" value="Engineering health (SW-3033)" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="vgLScuhdzcY3IV9KYCU6-16">
-          <mxGeometry width="330" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="190" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-25" value="Feature flag service (SW-3033)" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="vgLScuhdzcY3IV9KYCU6-16">
-          <mxGeometry width="330" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="215" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-26" value="Indy ranking (SW-3033)" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="vgLScuhdzcY3IV9KYCU6-16">
-          <mxGeometry width="330" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="240" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vgLScuhdzcY3IV9KYCU6-27" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="vgLScuhdzcY3IV9KYCU6-16">
-          <mxGeometry y="1" width="360" height="10" relative="1" as="geometry">
-            <mxPoint y="-50" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
